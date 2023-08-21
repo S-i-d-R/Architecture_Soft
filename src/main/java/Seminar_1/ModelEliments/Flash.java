@@ -1,9 +1,8 @@
 package Seminar_1.ModelEliments;
 
-import Stuff.Angle3D;
-//import Stuff.Color;
-import java.awt.*;
-import Stuff.Point3D;
+import Seminar_1.Stuff.Angle3D;
+//import Seminar_1.Stuff.Color;
+import Seminar_1.Stuff.Point3D;
 
 public class Flash {
     public Point3D Location;

@@ -1,6 +1,6 @@
 package Seminar_1.ModelEliments;
 
-import Stuff.Point3D;
+import Seminar_1.Stuff.Point3D;
 
 import java.util.ArrayList;
 import java.util.List;

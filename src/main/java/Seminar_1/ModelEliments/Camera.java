@@ -1,7 +1,7 @@
 package Seminar_1.ModelEliments;
 
-import Stuff.Angle3D;
-import Stuff.Point3D;
+import Seminar_1.Stuff.Angle3D;
+import Seminar_1.Stuff.Point3D;
 
 public class Camera {
     public Point3D Location;
