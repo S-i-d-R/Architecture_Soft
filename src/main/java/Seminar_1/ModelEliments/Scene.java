@@ -1,6 +1,6 @@
 package Seminar_1.ModelEliments;
 
-import Seminar_1.Stuff.Type;
+import Stuff.Type;
 
 import java.util.ArrayList;
 import java.util.List;
