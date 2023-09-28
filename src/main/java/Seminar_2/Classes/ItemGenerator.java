@@ -1,4 +1,4 @@
-package Classes;
+package Seminar_2.Classes;
 
 public abstract class ItemGenerator {
     public void openReward()
